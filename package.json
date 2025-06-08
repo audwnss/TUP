@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "mysql2": "^3.14.1",
+    "tunnel-ssh": "^5.2.0"
+  }
+}
